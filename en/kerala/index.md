@@ -11,5 +11,5 @@ __So Let's explore the culture of this beautiful land...__
 
 {{< showcase title="Arabi Malayalam" summary="Arabi-Malayalam is a macaronic language popular among the Muslim community of Kerala, which served an import role in the spread of Islamic knowledge in Malabar." image="/images/arabi-malayalam.png" link="/en/arabi-malayalam/" column="3" >}}
 
-
+{{< showcase title="nattu pattu" summary="Kerala's own traditional nattu songs" image="/images/njattu-cover.png" link="/en/nattu-pattu/" column="3" >}}
 

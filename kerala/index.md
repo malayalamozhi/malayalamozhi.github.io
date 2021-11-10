@@ -8,6 +8,8 @@
 
 {{< showcase title="അറബി മലയാളം" summary="കേരളത്തിലെ മാപ്പിള കോറന്‍പിന്റെ കലമുറയായ അറബി മലയാളത്തെ കുറിച്ച്" image="/images/arabi-malayalam.png" link="/arabi-malayalam/" column="3" >}}
 
+{{< showcase title="ഞാറ്റുപാട്ട്" summary="കേരളത്തിന്റെ തനത് പാട്ടുകലയായ ഞാറ്റുപാട്ട്" image="/images/njattu-cover.png" link="/nattu-pattu/" column="3" >}}
+
 
 
 
