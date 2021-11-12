@@ -102,7 +102,7 @@
                     href="http://malayalamozhi.github.io/chera/"
                     /></url><url>
             <loc>http://malayalamozhi.github.io/tags/%E0%B4%AA%E0%B4%B4%E0%B4%AF%E0%B4%BF%E0%B4%9F/</loc><lastmod>2021-10-25T07:27:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>http://malayalamozhi.github.io/arabi-malayalam/</loc><lastmod>2021-10-07T20:00:42&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/arabi-malayalam/</loc><lastmod>2021-10-07T20:00:42&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://malayalamozhi.github.io/en/arabi-malayalam/"
@@ -113,15 +113,6 @@
                     /></url><url>
             <loc>http://malayalamozhi.github.io/authors/youseph/</loc><lastmod>2021-10-02T19:48:12&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://malayalamozhi.github.io/pacha_malayalam/</loc><lastmod>2021-10-02T19:48:12&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://malayalamozhi.github.io/literature/</loc><lastmod>2021-05-26T15:30:49&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://malayalamozhi.github.io/en/literature/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="ml"
-                    href="http://malayalamozhi.github.io/literature/"
-                    /></url><url>
             <loc>http://malayalamozhi.github.io/kerala/</loc><lastmod>2021-05-26T15:30:49&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -131,7 +122,7 @@
                     hreflang="ml"
                     href="http://malayalamozhi.github.io/kerala/"
                     /></url><url>
-            <loc>http://malayalamozhi.github.io/categories/dictionary/</loc><lastmod>2021-04-16T14:53:03&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/categories/dictionary/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://malayalamozhi.github.io/en/categories/dictionary/"
@@ -139,15 +130,6 @@
                     rel="alternate"
                     hreflang="ml"
                     href="http://malayalamozhi.github.io/categories/dictionary/"
-                    /></url><url>
-            <loc>http://malayalamozhi.github.io/materials/glossary/</loc><lastmod>2021-04-16T14:53:03&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://malayalamozhi.github.io/en/materials/glossary/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="ml"
-                    href="http://malayalamozhi.github.io/materials/glossary/"
                     /></url><url>
             <loc>http://malayalamozhi.github.io/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
@@ -193,6 +175,15 @@
                     rel="alternate"
                     hreflang="ml"
                     href="http://malayalamozhi.github.io/tags/installation/"
+                    /></url><url>
+            <loc>http://malayalamozhi.github.io/glossary/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://malayalamozhi.github.io/en/glossary/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="ml"
+                    href="http://malayalamozhi.github.io/glossary/"
                     /></url><url>
             <loc>http://malayalamozhi.github.io/about/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
