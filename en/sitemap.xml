@@ -2,9 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://malayalamozhi.github.io/en/tags/article/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>http://malayalamozhi.github.io/en/categories/article/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>http://malayalamozhi.github.io/en/authors/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/en/authors/</loc><lastmod>2021-11-26T10:10:13&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ml"
                         href="http://malayalamozhi.github.io/authors/"
@@ -13,7 +11,7 @@
                     hreflang="en"
                     href="http://malayalamozhi.github.io/en/authors/"
                     /></url><url>
-            <loc>http://malayalamozhi.github.io/en/categories/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/en/categories/</loc><lastmod>2021-11-26T10:10:13&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ml"
                         href="http://malayalamozhi.github.io/categories/"
@@ -22,8 +20,16 @@
                     hreflang="en"
                     href="http://malayalamozhi.github.io/en/categories/"
                     /></url><url>
-            <loc>http://malayalamozhi.github.io/en/tags/culture/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>http://malayalamozhi.github.io/en/authors/malayalamozhi/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/en/malayalam-language/</loc><lastmod>2021-11-26T10:10:13&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ml"
+                        href="http://malayalamozhi.github.io/malayalam-language/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://malayalamozhi.github.io/en/malayalam-language/"
+                    /></url><url>
+            <loc>http://malayalamozhi.github.io/en/authors/malayalamozhi/</loc><lastmod>2021-11-26T10:10:13&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ml"
                         href="http://malayalamozhi.github.io/authors/malayalamozhi/"
@@ -32,7 +38,7 @@
                     hreflang="en"
                     href="http://malayalamozhi.github.io/en/authors/malayalamozhi/"
                     /></url><url>
-            <loc>http://malayalamozhi.github.io/en/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/en/</loc><lastmod>2021-11-26T10:10:13&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ml"
                         href="http://malayalamozhi.github.io/"
@@ -41,16 +47,8 @@
                     hreflang="en"
                     href="http://malayalamozhi.github.io/en/"
                     /></url><url>
-            <loc>http://malayalamozhi.github.io/en/nattu-pattu/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="ml"
-                        href="http://malayalamozhi.github.io/nattu-pattu/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://malayalamozhi.github.io/en/nattu-pattu/"
-                    /></url><url>
-            <loc>http://malayalamozhi.github.io/en/posts/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/en/categories/official/</loc><lastmod>2021-11-26T10:10:13&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://malayalamozhi.github.io/en/posts/</loc><lastmod>2021-11-26T10:10:13&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ml"
                         href="http://malayalamozhi.github.io/posts/"
@@ -59,7 +57,7 @@
                     hreflang="en"
                     href="http://malayalamozhi.github.io/en/posts/"
                     /></url><url>
-            <loc>http://malayalamozhi.github.io/en/tags/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/en/tags/</loc><lastmod>2021-11-26T10:10:13&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ml"
                         href="http://malayalamozhi.github.io/tags/"
@@ -67,6 +65,27 @@
                     rel="alternate"
                     hreflang="en"
                     href="http://malayalamozhi.github.io/en/tags/"
+                    /></url><url>
+            <loc>http://malayalamozhi.github.io/en/tags/%E0%B4%AA%E0%B4%9A%E0%B5%8D%E0%B4%9A-%E0%B4%AE%E0%B4%B2%E0%B4%AF%E0%B4%BE%E0%B4%B3%E0%B4%82/</loc><lastmod>2021-11-26T10:10:13&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ml"
+                        href="http://malayalamozhi.github.io/tags/%E0%B4%AA%E0%B4%9A%E0%B5%8D%E0%B4%9A-%E0%B4%AE%E0%B4%B2%E0%B4%AF%E0%B4%BE%E0%B4%B3%E0%B4%82/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://malayalamozhi.github.io/en/tags/%E0%B4%AA%E0%B4%9A%E0%B5%8D%E0%B4%9A-%E0%B4%AE%E0%B4%B2%E0%B4%AF%E0%B4%BE%E0%B4%B3%E0%B4%82/"
+                    /></url><url>
+            <loc>http://malayalamozhi.github.io/en/tags/article/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://malayalamozhi.github.io/en/categories/article/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://malayalamozhi.github.io/en/tags/culture/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://malayalamozhi.github.io/en/nattu-pattu/</loc><lastmod>2021-11-10T08:20:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ml"
+                        href="http://malayalamozhi.github.io/nattu-pattu/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://malayalamozhi.github.io/en/nattu-pattu/"
                     /></url><url>
             <loc>http://malayalamozhi.github.io/en/categories/learning/</loc><lastmod>2021-10-25T07:30:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>http://malayalamozhi.github.io/en/materials/orthography/orthography/</loc><lastmod>2021-10-25T07:30:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
