@@ -158,8 +158,16 @@ akṟiṇai enmānar avar ala piṟavē<br>
 The Sanskrit grammar is much more comprehensive than Malayalam grammar, and unlike Sanskrit, Malayalam does not assign gender to fruits, trees or rivers. The basic structure of these two language families is quite distant from each other, even though they have influenced each other over thousands of years.
 
 {{< admonition info >}}
-Part 2 Coming Soon!
+Read [Part 2](/en/malayalam-tamil)
 {{< /admonition >}}
+
+##  Reference
+
+*  *The Study of Language, George Yule, Fourth Edition*
+*  *The Dravidian Languages, Bhadriraju Krishnamurthi*
+*  *A Grammar of Malayalim, Rev. George Matthan* 
+* *Tholkappiyam in English, Dr. V. Murugan, 2000*
+* *[Sanskrit for Beginners, A simple and comprehensive guide](/https://www.learnsanskrit.org/guide/)*
 
 ______________________________________________________
 
