@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://malayalamozhi.github.io/categories/</loc><lastmod>2022-02-12T18:29:04&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/categories/</loc><lastmod>2022-01-07T14:19:38&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://malayalamozhi.github.io/en/categories/"
@@ -11,7 +11,7 @@
                     hreflang="ml"
                     href="http://malayalamozhi.github.io/categories/"
                     /></url><url>
-            <loc>http://malayalamozhi.github.io/authors/malayalamozhi/</loc><lastmod>2022-02-12T18:29:04&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/authors/malayalamozhi/</loc><lastmod>2022-01-07T14:19:38&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://malayalamozhi.github.io/en/authors/malayalamozhi/"
@@ -20,7 +20,7 @@
                     hreflang="ml"
                     href="http://malayalamozhi.github.io/authors/malayalamozhi/"
                     /></url><url>
-            <loc>http://malayalamozhi.github.io/</loc><lastmod>2022-02-12T18:29:04&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/</loc><lastmod>2022-01-07T14:19:38&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://malayalamozhi.github.io/en/"
@@ -29,16 +29,7 @@
                     hreflang="ml"
                     href="http://malayalamozhi.github.io/"
                     /></url><url>
-            <loc>http://malayalamozhi.github.io/categories/official/</loc><lastmod>2022-02-12T18:29:04&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://malayalamozhi.github.io/en/categories/official/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="ml"
-                    href="http://malayalamozhi.github.io/categories/official/"
-                    /></url><url>
-            <loc>http://malayalamozhi.github.io/posts/</loc><lastmod>2022-02-12T18:29:04&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/posts/</loc><lastmod>2022-01-07T14:19:38&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://malayalamozhi.github.io/en/posts/"
@@ -47,7 +38,7 @@
                     hreflang="ml"
                     href="http://malayalamozhi.github.io/posts/"
                     /></url><url>
-            <loc>http://malayalamozhi.github.io/tags/</loc><lastmod>2022-02-12T18:29:04&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/tags/</loc><lastmod>2022-01-07T14:19:38&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://malayalamozhi.github.io/en/tags/"
@@ -56,9 +47,7 @@
                     hreflang="ml"
                     href="http://malayalamozhi.github.io/tags/"
                     /></url><url>
-            <loc>http://malayalamozhi.github.io/tags/type/</loc><lastmod>2022-02-12T18:29:04&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://malayalamozhi.github.io/type/</loc><lastmod>2022-02-12T18:29:04&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://malayalamozhi.github.io/authors/</loc><lastmod>2022-02-12T18:29:04&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://malayalamozhi.github.io/authors/</loc><lastmod>2022-01-07T14:19:38&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://malayalamozhi.github.io/en/authors/"
